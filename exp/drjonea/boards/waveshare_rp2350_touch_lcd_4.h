@@ -1,7 +1,5 @@
 /*
- * Copyright (c) 2020 Raspberry Pi (Trading) Ltd.
- *
- * SPDX-License-Identifier: BSD-3-Clause
+ Board file for the Waveshare RP2350 Touch LCD 4
  */
 
 // -----------------------------------------------------
@@ -9,7 +7,6 @@
 //       SHOULD ONLY CONSIST OF PREPROCESSOR DIRECTIVES
 // -----------------------------------------------------
 
-// This header may be included by other board headers as "boards/pico2.h"
 
 // pico_cmake_set PICO_PLATFORM=rp2350
 
